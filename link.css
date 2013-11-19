@@ -6,9 +6,10 @@ a:link { color : #ffffff;
             text-decoration : none;}
 a:visited { color : #ffffff; 
                  text-decoration : none;}
-a:hover { font-size : 15; 
+a:hover { font-size : 18;
                   font-family : georgia;
                   color : #fffa69; 
+	font-weight : bold;
                    font-style : italic; }
 a:active { color : #ffffff; 
                  font-style : italic;} 
